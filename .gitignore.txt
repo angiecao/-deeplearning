@@ -5,7 +5,7 @@
 
 # pythone generated files #
 ######################
-**/_pycache_/
+**//__pycache__/
 
 # notebook generated files #
 ######################
