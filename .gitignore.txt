@@ -1,8 +1,0 @@
-# OS generated files #
-######################
-*.DS_Store
-
-# notebook checkpoint #
-######################
-*.ipynb_checkpoints
-*_pycache_
