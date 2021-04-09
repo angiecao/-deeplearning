@@ -1,12 +1,14 @@
 # OS generated files #
 ######################
-**/.DS_Store
-**/.DS_Store?
+/*/.DS_Store
+/*/.DS_Store?
 
 # pythone generated files #
 ######################
-**//__pycache__/
+**/__pycache__/
 
 # notebook generated files #
 ######################
 **/.ipynb_checkpoints/
+
+L1_week2_code/
