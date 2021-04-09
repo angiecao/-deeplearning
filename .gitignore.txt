@@ -1,0 +1,12 @@
+# OS generated files #
+######################
+**/.DS_Store
+**/.DS_Store?
+
+# pythone generated files #
+######################
+**/_pycache_/
+
+# notebook generated files #
+######################
+**/.ipynb_checkpoints/
